@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaimMahmoodRamday.
+- 👋 Hi, I’m @SaimMahmood.
 - 👀 I’m interested in Machine Learning and Web & particularly Database Development.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m aiming at creating affordable tech solutions that make technology accessible to underserved communities. 
