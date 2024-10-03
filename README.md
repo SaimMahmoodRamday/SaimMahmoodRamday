@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaimMahmood.
 - 👀 I’m interested in Machine Learning and Web & particularly Database Development.
-- 🌱 I’m currently learning Machine Learning and currently working with Laravel and React as a SWE.
+- 🌱 I’m currently learning Machine Learning and currently working with Laravel and React as a SWE in Glowlogix.
 - 💞️ I’m aiming at creating affordable tech solutions that make technology accessible to everyone. 
 - 📫 Reach me @saimmehmood2004@gmail.com or via LinkedIn.
 
