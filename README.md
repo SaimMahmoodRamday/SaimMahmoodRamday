@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi there, I'm Saim Mahmood! 👋</h1>
 
 <p align="center">
@@ -61,8 +60,6 @@
   <br>
   📸 Instagram: [@saimistan](https://www.instagram.com/saimistan/)
 </p>
-
-```
 
 
 <!---
