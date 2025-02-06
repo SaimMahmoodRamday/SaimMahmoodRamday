@@ -1,11 +1,5 @@
 <h1 align="center">Hi there, I'm Saim Mahmood! 👋</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saim-mahmood-1385a5250/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/saimistan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:saimmehmood2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
 ---
 
 ### 👀 About Me:
@@ -43,22 +37,11 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaimMahmood&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaimMahmood&theme=radical" alt="GitHub Streak">
-</p>
-
----
-
 ### 📬 Connect with me:
-<p align="left">
-  📫 Email: saimmehmood2004@gmail.com
-  <br>
-  🔗 LinkedIn: [Saim Mahmood](https://www.linkedin.com/in/saim-mahmood-1385a5250/)
-  <br>
-  📸 Instagram: [@saimistan](https://www.instagram.com/saimistan/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/saim-mahmood-1385a5250/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/saimistan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:saimmehmood2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 
