@@ -1,8 +1,69 @@
-- 👋 Hi, I’m @SaimMahmood.
-- 👀 I’m interested in Machine Learning and Web & particularly Database Development.
-- 🌱 I’m currently learning Machine Learning and currently working with Laravel and React as a SWE in Glowlogix.
-- 💞️ I’m aiming at creating affordable tech solutions that make technology accessible to everyone. 
-- 📫 Reach me @saimmehmood2004@gmail.com or via LinkedIn.
+```markdown
+<h1 align="center">Hi there, I'm Saim Mahmood! 👋</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saim-mahmood-1385a5250/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/saimistan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:saimmehmood2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+### 👀 About Me:
+- 🎓 Third-year CS student at NUST.
+- 💻 Currently working as a **Software Engineer** at **Glowlogix**, specializing in **Laravel** and **React**.
+- 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **Web & Database Development**.
+- 💡 Aiming to create **affordable tech solutions** to make technology accessible to everyone.
+
+---
+
+### 🚀 Languages & Technologies:
+
+#### **Programming Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+#### **Frameworks & Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=node.js&logoColor=white" alt="MERN">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaimMahmood&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaimMahmood&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+### 📬 Connect with me:
+<p align="left">
+  📫 Email: saimmehmood2004@gmail.com
+  <br>
+  🔗 LinkedIn: [Saim Mahmood](https://www.linkedin.com/in/saim-mahmood-1385a5250/)
+  <br>
+  📸 Instagram: [@saimistan](https://www.instagram.com/saimistan/)
+</p>
+
+```
+
 
 <!---
 SaimMahmoodRamday/SaimMahmoodRamday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
