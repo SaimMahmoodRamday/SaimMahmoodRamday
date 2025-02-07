@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width="70%">
       <ul>
         <li>🎓 Third-year CS student at NUST.</li>
         <li>💻 Currently working as a <b>Software Engineer</b> at <b>Glowlogix</b>, specializing in <b>Laravel</b> and <b>React</b>.</li>
@@ -14,8 +14,8 @@
         <li>💡 Aiming to create <b>affordable tech solutions</b> to make technology accessible to everyone.</li>
       </ul>
     </td>
-    <td>
-      <img src="CS.gif" width="200px">
+    <td width="30%">
+      <img src="CS.gif" width="400px">
     </td>
   </tr>
 </table>
@@ -62,6 +62,7 @@
   <a href="https://www.instagram.com/saimistan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:saimmehmood2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
 
 
 <!---
