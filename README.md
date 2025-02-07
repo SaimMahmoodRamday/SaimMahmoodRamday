@@ -4,10 +4,6 @@
 
 ### 👀 About Me:
 
-<div align="center">
-  <img src="CS.gif" width="300px" style="max-width:100%;">
-</div>
-
 <table>
   <tr>
     <td width="70%">
