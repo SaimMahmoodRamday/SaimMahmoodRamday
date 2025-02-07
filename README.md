@@ -3,10 +3,22 @@
 ---
 
 ### 👀 About Me:
-- 🎓 Third-year CS student at NUST.
-- 💻 Currently working as a **Software Engineer** at **Glowlogix**, specializing in **Laravel** and **React**.
-- 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **Web & Database Development**.
-- 💡 Aiming to create **affordable tech solutions** to make technology accessible to everyone.
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 Third-year CS student at NUST.</li>
+        <li>💻 Currently working as a <b>Software Engineer</b> at <b>Glowlogix</b>, specializing in <b>Laravel</b> and <b>React</b>.</li>
+        <li>🤖 Passionate about <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Web & Database Development</b>.</li>
+        <li>💡 Aiming to create <b>affordable tech solutions</b> to make technology accessible to everyone.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="CS.gif" width="200px">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,6 +62,7 @@
   <a href="https://www.instagram.com/saimistan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:saimmehmood2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
 
 <!---
 SaimMahmoodRamday/SaimMahmoodRamday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
