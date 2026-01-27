@@ -9,7 +9,7 @@
     <td width="70%">
       <ul>
         <li>🎓 Final-year CS student at NUST.</li>
-        <li>💻 Currently working as an <b>AI Associate</b> at <b>Data BI</b>.</li>
+        <li>💻 AI/ML Engineer </b>.</li>
         <li>🤖 Passionate about <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Web & Database Development</b>.</li>
         <li>💡 Aiming to create <b>affordable tech solutions</b> to make technology accessible to everyone.</li>
       </ul>
