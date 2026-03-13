@@ -14,11 +14,11 @@ I am an AI/ML Engineer and Software Developer with a strong focus on Machine Lea
  
 **Programming Languages**
  
-Python | JavaScript |  PHP | Java | C | C++ |  HTML5 | CSS3 | SQL
+Python | JavaScript |  PHP | Java | C | C++ |  HTML5 | CSS3 | SQL | DAX
  
 **Frameworks & Tools**
  
-PyTorch | TensorFlow | LangChain | MERN Stack | Laravel | Keras |  Unity | MySQL Workbench | MongoDB | Git | Docker | GitLab | Pivotal Tracker
+PyTorch | TensorFlow | LangChain | FastAPI | MERN | Next.js | PowerBI | Laravel | Keras |  Unity | MySQL Workbench | MongoDB | Git | Docker | GitLab | Pivotal Tracker
  
 ---
  
