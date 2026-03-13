@@ -18,7 +18,7 @@ Python | JavaScript |  PHP | Java | C | C++ |  HTML5 | CSS3 | SQL | DAX
  
 **Frameworks & Tools**
  
-PyTorch | TensorFlow | LangChain | FastAPI | MERN | Next.js | PowerBI | Laravel | Keras |  Unity | MySQL Workbench | MongoDB | Git | Docker | GitLab | Pivotal Tracker
+PyTorch | TensorFlow | LangChain | FastAPI | MERN | Next.js | PowerBI | Laravel | Keras |  Unity | MySQL Workbench | PostgreSQL | MongoDB | Git | Docker | GitLab 
  
 ---
  
