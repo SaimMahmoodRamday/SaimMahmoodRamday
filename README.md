@@ -31,5 +31,4 @@ End-to-end MLOps on Azure ML and AWS. Containerized multi-service systems with D
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/saim-mahmood-1385a5250/)
-- [Email](mailto:saimmehmood2004@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/saim-mahmood-1385a5250/) · [Email](mailto:saimmehmood2004@gmail.com)
