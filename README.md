@@ -21,9 +21,9 @@ End-to-end MLOps on Azure ML and AWS. Containerized multi-service systems with D
 
 **AI/ML:** PyTorch · TensorFlow  · LangChain · ONNX · YOLOv8 · RF-DETR · DeepLabV3 · ByteTrack · Transformers · RAG
 
-**Backend & Infra:** Python · FastAPI · Kafka · Docker · PostgreSQL · Redis · MongoDB
+**Backend & Infra:** Python · FastAPI · Kafka · Docker · PostgreSQL · Redis · MongoDB · MySQL
 
-**Cloud:** AWS (EC2, S3) · Azure (ML, Container Apps) · Pinecone · Modal Labs · GitHub Actions
+**Cloud:** AWS · Azure · Pinecone · FAISS · Modal Labs · GitHub Actions
 
 **Other:** React · Next.js · Streamlit · Power BI · C++ , Python
 
