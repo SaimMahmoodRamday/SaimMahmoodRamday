@@ -2,7 +2,7 @@
 
 # Saim Mahmood
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E6E6E&center=true&vCenter=true&width=760&lines=%C2%A0I+don%27t+just+prototype+AI+%E2%80%94+I+ship+it+to+production;%C2%A0Agentic+RAG+%C2%B7+real-time+CV+pipelines+%C2%B7+event-driven+MLOps+on+AWS%2FAzure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E6E6E&center=true&vCenter=true&width=760&lines=%C2%A0I+don%27t+just+prototype+AI+%E2%80%94+I+ship+it+to+production;%C2%A0Agentic+RAG+%C2%B7+real-time+CV+pipelines+%C2%B7+event-driven+MLOps" alt="Typing SVG" />
 
 [Portfolio](https://saim-mahmood-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/saim-mahmood-1385a5250/) · [Email](mailto:saimmehmood2004@gmail.com)
 
