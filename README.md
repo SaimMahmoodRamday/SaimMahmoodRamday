@@ -68,7 +68,6 @@ I build the parts of AI systems that break in production, not just in notebooks 
 <div align="center">
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaimMahmoodRamday&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=6E6E6E" height="165" />
 <img src="https://streak-stats.demolab.com/?user=SaimMahmoodRamday&hide_border=true&theme=default&background=FFFFFF&stroke=E4E2E2&ring=6E6E6E&fire=6E6E6E&currStreakLabel=333" height="165" />
 
 </div>
