@@ -14,7 +14,7 @@ I build the parts of AI systems that break in production, not just in notebooks 
 
 ## Recent builds
 
-**[PakEconBot](https://github.com/SaimMahmoodRamday/pak-econ-rag)** — Agentic RAG system on Pakistan's economy. Hand-rolled ReAct loop (skipped LangChain's agent internals on purpose) over Groq-hosted Llama 3.3 70B, Pinecone retrieval, dual embedding strategy to keep the production image PyTorch-free. Deployed on EC2 + S3 with a GitHub Actions pipeline that ships backend and frontend in parallel on every push.
+**[PakEconBot](https://github.com/SaimMahmoodRamday/pak-econ-rag)** — Agentic RAG system on Pakistan's economy. Hand-rolled ReAct loop over Groq-hosted Llama 3.3 70B, Pinecone retrieval, dual embedding strategy to keep the production image PyTorch-free. Deployed on EC2 + S3 with a GitHub Actions pipeline that ships backend and frontend in parallel on every push.
 
 **[Multi-Agent Production System](https://github.com/SaimMahmoodRamday/multi-agent-prod-system)** — Three-agent pipeline that investigates GitHub issues end-to-end and drafts a PR with its findings, gated behind human approval. Runs with zero API keys against deterministic mocks, has 83 tests, per-agent cost/latency tracking, and provider fallback (Groq → Claude/Gemini) — built like something meant to survive contact with real traffic, not a demo.
 
