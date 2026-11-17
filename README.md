@@ -73,5 +73,5 @@ I build the parts of AI systems that break in production, not just in notebooks 
 </div>
 
 <div align="center">
-<sub>Open to Applied AI / LLM Engineering roles — reach out via <a href="mailto:saimmehmood2004@gmail.com">email</a> or <a href="https://www.linkedin.com/in/saim-mahmood-1385a5250/">LinkedIn</a>.</sub>
+<sub>Open to Applied AI / LLM Engineering roles — reach out via <a href="mailto:saimmehmood2004@gmail.com">email</a> or <a href="https://www.linkedin.com/in/saim-mahmood/">LinkedIn</a>.</sub>
 </div>
